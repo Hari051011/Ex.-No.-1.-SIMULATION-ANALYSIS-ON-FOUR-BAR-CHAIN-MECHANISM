@@ -1,4 +1,4 @@
-![empd ex 1](https://github.com/user-attachments/assets/5328037b-d1f7-463d-ac0e-4dd66d5298f9)# Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
+# Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
 ## DATE: 3/12/2024
 
